@@ -20,25 +20,24 @@
     background-color: #6969E2;
     width: 40%;
     float: left;
-    height: 20vh;
+    padding-bottom: 23%;
 }
 
 .text2{
     background-color: #D379D6;
     width: 100%;
-    height: 20vh;
     clear: left;
+    padding-bottom: 25%;
 }
 
 .foto{
     position: relative;
     width: 60%;
-    float: right;
+    float: left;
 }
 
 .foto img{
     width: 100%;
-    vertical-align: middle;
 }
 
 .text3{
@@ -62,7 +61,6 @@
     }
     .foto{
         width: 100%;
-        float: left;
         position: absolute;
     }
 }
